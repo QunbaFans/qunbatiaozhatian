@@ -5,4 +5,12 @@ Iphone developer:
 Server developer:
     please work in branch:[server/develop]
 
+Develop regulations:
+    for example:
+    1. if you want to make contribution to android, please first checkout the latest version of
+        android/develop, and then create a new branch, then you can modify the source code as you want.
+    2. after you finish coding, and test it OK, you can pull request, code review is needed.
+    3. After the assigned code reviewers approve your pull request, then reviewer need to merge your branch.
+
+
 If you have any other question, please send e-mail to [lai-c@gmail.com]
